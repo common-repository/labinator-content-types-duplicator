@@ -1,0 +1,340 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Labinator Content Types Duplicator\n"
+"POT-Creation-Date: 2024-07-19 13:10+0800\n"
+"PO-Revision-Date: 2024-07-19 13:10+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: lct-duplicator.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: lct-duplicator-admin.php:239
+msgid "Original item"
+msgstr ""
+
+#: lct-duplicator-admin.php:269
+msgid ""
+"Delete reference to original item: <span class="
+"\"lct_duplicator_original_item_title_span\"></span>"
+msgstr ""
+
+#. translators: Original item link (to view or edit) or title.
+#: lct-duplicator-admin.php:294
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: lct-duplicator-admin.php:328
+#, php-format
+msgid ""
+"Delete reference to original item: <span class="
+"\"lct_duplicator_original_item_title_span\">%s</span>"
+msgstr ""
+
+#: lct-duplicator-admin.php:347
+#, php-format
+msgid "Clone &#8220;%s&#8221;"
+msgstr ""
+
+#: lct-duplicator-admin.php:348 lct-duplicator-admin.php:801
+#: lct-duplicator-admin.php:952 lct-duplicator-admin.php:959
+msgid "Clone"
+msgstr ""
+
+#: lct-duplicator-admin.php:364 lct-duplicator-common.php:78
+#: lct-duplicator-common.php:81 lct-duplicator-common.php:172
+#: lct-duplicator-common.php:184
+msgid "Copy to a new draft"
+msgstr ""
+
+#: lct-duplicator-admin.php:391
+msgid "Current user is not allowed to copy posts."
+msgstr ""
+
+#: lct-duplicator-admin.php:395
+msgid "No post to duplicate has been supplied!"
+msgstr ""
+
+#: lct-duplicator-admin.php:435
+msgid "Copy creation failed, could not find original:"
+msgstr ""
+
+#: lct-duplicator-admin.php:663
+msgid "Copy features for this post type are not enabled in options page"
+msgstr ""
+
+#: lct-duplicator-admin.php:682
+msgid "Untitled"
+msgstr ""
+
+#: lct-duplicator-admin.php:777
+#, php-format
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lct-duplicator-admin.php:842
+msgid "Duplicate Menu"
+msgstr ""
+
+#: lct-duplicator-admin.php:866
+msgid "(Copy)"
+msgstr ""
+
+#: lct-duplicator-admin.php:953
+msgid "Clone this Widget"
+msgstr ""
+
+#: lct-duplicator-admin.php:959
+msgid "create a new copy of this file"
+msgstr ""
+
+#: lct-duplicator-common.php:114
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr ""
+
+#: lct-duplicator-common.php:124
+#, php-format
+msgid "Preview &#8220;%s&#8221;"
+msgstr ""
+
+#. translators: %s: post title
+#: lct-duplicator-common.php:133
+#, php-format
+msgid "View &#8220;%s&#8221;"
+msgstr ""
+
+#: lct-duplicator-options.php:23 lct-duplicator-options.php:85
+msgid "Labinator Content Types Duplicator Options"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: lct-duplicator-options.php:23
+msgid "Labinator Content Types Duplicator"
+msgstr ""
+
+#: lct-duplicator-options.php:147
+msgid "All your WordPress needs in one package! 📦 Learn more →"
+msgstr ""
+
+#: lct-duplicator-options.php:158
+msgid "Cloning Options"
+msgstr ""
+
+#: lct-duplicator-options.php:159
+msgid "Permission Options"
+msgstr ""
+
+#: lct-duplicator-options.php:160
+msgid "Display Options"
+msgstr ""
+
+#: lct-duplicator-options.php:167
+msgid "Enable/Disable Duplicator For:"
+msgstr ""
+
+#: lct-duplicator-options.php:190
+msgid "Menu"
+msgstr ""
+
+#: lct-duplicator-options.php:197
+msgid "Widget"
+msgstr ""
+
+#: lct-duplicator-options.php:204
+msgid "Post/Page Elements To Copy:"
+msgstr ""
+
+#: lct-duplicator-options.php:210
+msgid "Title"
+msgstr ""
+
+#: lct-duplicator-options.php:216
+msgid "Date"
+msgstr ""
+
+#: lct-duplicator-options.php:222
+msgid "Status"
+msgstr ""
+
+#: lct-duplicator-options.php:228
+msgid "Slug"
+msgstr ""
+
+#: lct-duplicator-options.php:234
+msgid "Excerpt"
+msgstr ""
+
+#: lct-duplicator-options.php:240
+msgid "Content"
+msgstr ""
+
+#: lct-duplicator-options.php:246
+msgid "Featured Image"
+msgstr ""
+
+#: lct-duplicator-options.php:252
+msgid "Template"
+msgstr ""
+
+#: lct-duplicator-options.php:258
+msgctxt "post format"
+msgid "Format"
+msgstr ""
+
+#: lct-duplicator-options.php:264
+msgid "Author"
+msgstr ""
+
+#: lct-duplicator-options.php:270
+msgid "Password"
+msgstr ""
+
+#: lct-duplicator-options.php:276
+msgid "Attachments"
+msgstr ""
+
+#: lct-duplicator-options.php:282
+msgid "Children"
+msgstr ""
+
+#: lct-duplicator-options.php:288
+msgid "Comments"
+msgstr ""
+
+#: lct-duplicator-options.php:288
+msgid "except pingbacks and trackbacks"
+msgstr ""
+
+#: lct-duplicator-options.php:294
+msgid "Menu order"
+msgstr ""
+
+#: lct-duplicator-options.php:302
+msgid "Title prefix"
+msgstr ""
+
+#: lct-duplicator-options.php:304
+msgid "Prefix to be added before the title"
+msgstr ""
+
+#: lct-duplicator-options.php:307
+msgid "Title suffix"
+msgstr ""
+
+#: lct-duplicator-options.php:309
+msgid "Suffix to be added after the title"
+msgstr ""
+
+#: lct-duplicator-options.php:312
+msgid "Increase menu order by"
+msgstr ""
+
+#: lct-duplicator-options.php:314
+msgid ""
+"Add this number to the original menu order (blank or zero to retain the "
+"value)"
+msgstr ""
+
+#: lct-duplicator-options.php:321
+msgid "Do not copy these taxonomies"
+msgstr ""
+
+#: lct-duplicator-options.php:324
+msgid "Show/hide private taxonomies"
+msgstr ""
+
+#: lct-duplicator-options.php:353
+msgid "Roles allowed to copy"
+msgstr ""
+
+#: lct-duplicator-options.php:387
+msgid "Show links in"
+msgstr ""
+
+#: lct-duplicator-options.php:392
+msgid "Post list"
+msgstr ""
+
+#: lct-duplicator-options.php:398
+msgid "Edit screen"
+msgstr ""
+
+#: lct-duplicator-options.php:404
+msgid "Admin bar"
+msgstr ""
+
+#: lct-duplicator-options.php:404
+msgid "Useful when Gutenberg is enabled"
+msgstr ""
+
+#: lct-duplicator-options.php:412
+msgid "Bulk Actions"
+msgstr ""
+
+#: lct-duplicator-options.php:421
+msgid "Show original item:"
+msgstr ""
+
+#: lct-duplicator-options.php:426
+msgid "In a metabox from the Edit screen of the Classic Editor"
+msgstr ""
+
+#: lct-duplicator-options.php:432
+msgid "In a column in the Posts screen"
+msgstr ""
+
+#: lct-duplicator-options.php:438
+msgid "After the title in the Posts screen"
+msgstr ""
+
+#: lct-duplicator-options.php:453
+msgid "Save Changes"
+msgstr ""
+
+#: lct-duplicator.php:38
+msgid "Settings for Duplicate Post"
+msgstr ""
+
+#: lct-duplicator.php:39
+msgid "Settings"
+msgstr ""
+
+#: lct-duplicator.php:48
+msgid "Labinator WordPress Marketplace"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://labinator.com/wordpress-marketplace/plugins/content-types-duplicator/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Duplicate posts, pages, widgets, menus, media files, and any content types "
+"with one click. Copy or clone your content without limitations or "
+"restrictions."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Labinator"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://labinator.com"
+msgstr ""
